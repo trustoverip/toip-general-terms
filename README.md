@@ -1,8 +1,5 @@
 # A ToIP Core Terminology
 
-
-# A ToIP Core Terminology
-
 > ⚠️ **Attention:** You have landed on an old repository.
 >
 > ⚠️ **Attention:** Go to [the current repository](https://github.com/trustoverip/ctwg-main-glossary) (https://github.com/trustoverip/ctwg-main-glossary).
