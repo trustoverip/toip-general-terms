@@ -1,5 +1,13 @@
 # A ToIP Core Terminology
 
+> ⚠️ **Attention:** You have landed on an old repository.
+>
+> ⚠️ **Attention:** Go to [the current repository](https://github.com/trustoverip/ctwg-main-glossary) (https://github.com/trustoverip/ctwg-main-glossary).
+>
+> ⚠️ **Attention:** 👇 Text below is archived. 👇
+
+**"Since in order to understand, one must first listen, learn to understand by listening"**<br/>  (adapted version of a saying by Rumi)
+
 <MetaNotes>*This text is a first draft in different ways:*
 
 1. *The content (i.e. the proposal for managing the ToIP Core Terminology) is draft.*
